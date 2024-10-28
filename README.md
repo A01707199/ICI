@@ -1,5 +1,6 @@
 # EVALUACIÓN ETAPA INICIAL ICI
 Semana Tec
+
 Para calcular los gatos se tomaron en consideración múltiples factores. 
 
 Personal
@@ -22,8 +23,12 @@ Los gastos totales del supermercado son de un poco más de 27 millones de pesos 
   
 Referencias: 
 ¿Cuánto se paga de seguro social al mes por un trabajador con salario mínimo? - Fortia. (2024, September 2). Fortia. https://fortia.com.mx/sueldo-beneficios-y-prestaciones/cuanto-pagar-de-imss/
+
 Seguro para Tiendas de Comestibles. (2023, June 29). Farmer Brown Insurance. https://farmerbrown.com/es/insurance/tiendas-de-comestibles/
 Ecology Action. (2023, August 5). Supermarkets Should Lead the Way in Water Conservation and Efficiency. Taper. https://tapersolutions.com/article/water/supermarkets-should-lead-the-way-in-water-conservation-and-efficiency
+
 Tarifario – OQM. (2024). Oqm.com.mx. https://oqm.com.mx/tarifas/tarifario/
+
 CFE. (2024). Tarifas Industriales. App.cfe.mx. https://app.cfe.mx/Aplicaciones/CCFE/Tarifas/TarifasCREIndustria/Tarifas/DemandaIndustrialTran.aspx
+
 Gobierno de México. (2024). Incremento a los Salarios Mínimos para 2024. Gob.mx. https://www.gob.mx/conasami/es/articulos/incremento-a-los-salarios-minimos-para-2024
